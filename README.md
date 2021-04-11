@@ -1,5 +1,5 @@
 # CSE523-Machine-Learning-Fantastic-4
-Table of content
+# Table of content
 - Introduction
 - Results
 - References
@@ -11,3 +11,9 @@ Table of content
 We have used cosine similarity, Granger’s Causality Analysis (GCA), Augemented Dick Fuller test (ADF test) and F-test to find correlation.
  And have used forecasting techniques like ARIMA (AutoRegressive Integrated Moving Average) and OLS (Ordinary
 Least Squares) Regression.
+
+
+# Results
+
+
+# References
