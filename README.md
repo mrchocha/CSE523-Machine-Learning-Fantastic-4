@@ -19,12 +19,14 @@ Least Squares) Regression.
 </p>
 
 # Results
+![comp](https://github.com/mrchocha/CSE523-Machine-Learning-Fantastic-4/blob/main/Results/comp.png)
 ![ARIMA_forecast](https://github.com/mrchocha/CSE523-Machine-Learning-Fantastic-4/blob/main/Results/ARIMA_forecast.png)
 ![Correlation Matrix](https://github.com/mrchocha/CSE523-Machine-Learning-Fantastic-4/blob/main/Results/Correlation_Matrix.png)
 ![GCA_matrix](https://github.com/mrchocha/CSE523-Machine-Learning-Fantastic-4/blob/main/Results/GCA_matrix.png)
 ![OLS](https://github.com/mrchocha/CSE523-Machine-Learning-Fantastic-4/blob/main/Results/OLS.png)
 ![RMSE_ARIMA](https://github.com/mrchocha/CSE523-Machine-Learning-Fantastic-4/blob/main/Results/RMSE_ARIMA.png)
 ![seasonal_decompose](https://github.com/mrchocha/CSE523-Machine-Learning-Fantastic-4/blob/main/Results/seasonal_decompose.png)
+
 
 # References
 1. [Tushar Rao and Saket Srivastava, ”Analyzing Stock Market Movement Using Twitter Sentiment Analysis”](http://eprints.lincoln.ac.uk/id/eprint/11274/1/ASONAM%202012.pdf)
