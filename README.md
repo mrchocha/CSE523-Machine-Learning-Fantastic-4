@@ -17,3 +17,8 @@ Least Squares) Regression.
 
 
 # References
+1. [Tushar Rao and Saket Srivastava, ”Analyzing Stock Market Movement Using Twitter Sentiment Analysis”](http://eprints.lincoln.ac.uk/id/eprint/11274/1/ASONAM%202012.pdf)
+2. [Sentiment Analysis for Stock Price Prediction](https://towardsdatascience.com/sentiment-analysis-for-stock-price-prediction-in-python-bed40c65d178)
+3. [A.Jain, P. Dandannavar, “Application of Machine Learning Techniques to Sentiment Analysis”](https://sci-hub.se/10.1109/ICATCCT.2016.7912076)
+4. [Time series Forecasting using Granger’s Causality and Vector Autoregressive Model](https://towardsdatascience.com/granger-causality-and-vector-auto-regressive-model-for-time-series-forecasting-3226a64889a6)
+5. [ Twitter Sentiment Analysis Applied to Finance: A Case Study in the Retail Industry](https://www.researchgate.net/publication/279864932_Twitter_Sentiment_Analysis_Applied_to_Finance_A_Case_Study_in_the_Retail_Industry)
