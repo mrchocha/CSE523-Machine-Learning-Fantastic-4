@@ -15,7 +15,7 @@ We have used Correlation, Granger’s Causality Analysis (GCA), Augemented Dick 
 </p>
 <p>
 And have used forecasting techniques like ARIMA (AutoRegressive Integrated Moving Average) and OLS (Ordinary
-Least Squares) Regression.
+Least Squares) Relation.
 </p>
 
 # Results
