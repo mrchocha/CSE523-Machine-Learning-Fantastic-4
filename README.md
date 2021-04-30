@@ -1,8 +1,8 @@
 # CSE523-Machine-Learning-Fantastic-4
 # Table of content
-- Introduction
-- Results
-- References
+- [Introduction](#Introduction)
+- [Results](#Results)
+- [References](#References)
 
 
 # Introduction
